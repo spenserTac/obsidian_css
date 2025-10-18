@@ -240,3 +240,8 @@ li.is-collapsed .list-bullet:after{
 nbsp;
 </div>
 } */
+
+.canvas-node.is-themed .canvas-node-container{
+    border-color: transparent;
+    box-shadow: none;
+}
