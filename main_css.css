@@ -263,7 +263,7 @@ strong{
     background-image: none; padding-right: 0px;
 }
 
-.canvas-node.is-themed .canvas-node-container{
+.canvas-node.is-themed[style*="--canvas-color: 30,30,30"] .canvas-node-container{
     border-color: transparent;
     box-shadow: none;
 }
