@@ -241,6 +241,28 @@ nbsp;
 </div>
 } */
 
+.canvas-card-menu{
+    display: none !important;
+}
+
+li{
+    padding-top: 10px !important;
+}
+
+a{
+    color: #1b75d0 !important;
+    /*padding-inline-end: 0px !important;*/
+}
+
+strong{
+    /*font-weight: 1000 !important;*/
+    color: #8A5CF5
+}
+
+.external-link{
+    background-image: none; padding-right: 0px;
+}
+
 .canvas-node.is-themed .canvas-node-container{
     border-color: transparent;
     box-shadow: none;
